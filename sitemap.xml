@@ -1,11 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://oldbing.github.com/blog/2012/12/29/first-article/</loc>
+        <lastmod>2012-12-29T14:21:47+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://oldbing.github.com/blog/archives/</loc>
-        <lastmod>2012-12-29T12:47:14+08:00</lastmod>
+        <lastmod>2012-12-29T14:21:47+08:00</lastmod>
     </url>
     <url>
         <loc>http://oldbing.github.com/</loc>
-        <lastmod>2012-12-29T12:47:14+08:00</lastmod>
+        <lastmod>2012-12-29T14:21:47+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://oldbing.github.com/my-oldbing/</loc>
+        <lastmod>2012-12-29T14:22:24+08:00</lastmod>
     </url>
 </urlset>
